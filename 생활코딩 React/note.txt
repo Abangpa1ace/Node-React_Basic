@@ -1,0 +1,6 @@
+[React 공식사이트] : 사용방법 참고 
+https://reactjs.org
+
+[npm]
+- Node.js 앱들을 터미널(명령어) 환경에서 다운받을 수 있는 스토어류 프로그램
+- https://node.js.org(공식사이트에서 다운)
