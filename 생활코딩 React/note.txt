@@ -1,6 +1,18 @@
 [React 공식사이트] : 사용방법 참고 
 https://reactjs.org
 
-[npm]
-- Node.js 앱들을 터미널(명령어) 환경에서 다운받을 수 있는 스토어류 프로그램
-- https://node.js.org(공식사이트에서 다운)
+[설치]
+1. 설치
+  - https://node.js.org(공식사이트에서 다운)
+
+2. 설치확인(cmd or 터미널)
+  - npm -v (버전이 뜨면 Node.js, npm 정상설치)
+   * npm: Node.js 앱들을 터미널(명령어) 환경에서 다운받을 수 있는 스토어류 프로그램
+
+3. React app 설치(cmd or 터미널)
+  1) npm install -g create-react-app (권한이 없으면 앞에 sudo) -> create-react-app -V 버전뜨면 정상설치
+  2) npx create-react-app (공식 메뉴얼)
+  - npm(설치 스토어) / npx(임시설치, 최신버전)
+
+4. 디렉토리(sh-react)에 개발환경 구축
+  * 폴더명을 'react'로 설정하면 create-react-app 이 거절함.
